@@ -1,3 +1,5 @@
+Política de Privacidad
+
 Última actualización: Octubre de 2026
 
 Esta política de privacidad describe cómo se recopila, utiliza y protege la información en el videojuego para dispositivos móviles bt< ("el Juego"), desarrollado de forma independiente.
