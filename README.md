@@ -27,4 +27,4 @@ Dado que el desarrollador no almacena datos personales en bases de datos propias
 Esta política de privacidad puede actualizarse periódicamente. Se recomienda revisar esta página con regularidad para consultar cualquier cambio.
 
 6. Contacto
-Si tienes preguntas o sugerencias sobre esta Política de Privacidad, puedes escribir a: [tu_correo_de_contacto@gmail.com]
+Si tienes preguntas o sugerencias sobre esta Política de Privacidad, puedes escribir a: rompiendoelbt@gmail.com
