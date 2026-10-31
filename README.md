@@ -14,8 +14,8 @@ Sin embargo, para garantizar su funcionamiento, tablas de clasificación y monet
 
 2. Enlaces a políticas de privacidad de terceros
 El Juego utiliza bibliotecas y servicios gestionados por terceros con sus propias políticas de privacidad:
-• Servicios de Google Play / Google Play Games: https://policies.google.com/privacy
-• Google AdMob: https://support.google.com/admob/answer/6128543
+- Servicios de Google Play / Google Play Games: https://policies.google.com/privacy
+- Google AdMob: https://support.google.com/admob/answer/6128543
 
 4. Privacidad de menores
 El Juego no está dirigido intencionalmente a menores de 13 años ni recopila de manera deliberada información de identificación personal de menores. Si un tutor legal detecta que su hijo ha proporcionado información involuntariamente, puede contactar al desarrollador para solicitar su eliminación inmediata.
